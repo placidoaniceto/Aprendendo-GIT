@@ -1,7 +1,7 @@
 # Aprendendo-GIT
 Primeiras coisas com repositórios GIT.
 
-Docente: Daniel ROberto Cassar
+Docente: Daniel Roberto Cassar
 
 Aluno: Gustavo Placido Aniceto da Silva
 
