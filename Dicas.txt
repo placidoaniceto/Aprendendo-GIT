@@ -1,2 +1,3 @@
 sempre coloque boas mensagens no seus commits
 Sempre use o gitde forma desleixada
+trabalho no ramo dev e espelho para o main
