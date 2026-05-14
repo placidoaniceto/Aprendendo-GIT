@@ -1,4 +1,4 @@
-w# Aprendendo-GIT
+# Aprendendo-GIT
 
 Primeiras coisas com repositórios GIT.
 
