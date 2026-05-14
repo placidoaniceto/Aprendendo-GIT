@@ -1,4 +1,4 @@
-# Aprendendo-GIT
+w# Aprendendo-GIT
 
 Primeiras coisas com repositórios GIT.
 
@@ -12,3 +12,4 @@ Aluno: Gustavo Placido Aniceto da Silva
 
 Vamos aprender a fazer um commit local.
 
+Fazer um pull
