@@ -10,5 +10,5 @@ Aluno: Gustavo Placido Aniceto da Silva
 
 \*\*em construção...\*\*
 
-Vamos aprender a fazer um commit local
+Vamos aprender a fazer um commit local.
 
